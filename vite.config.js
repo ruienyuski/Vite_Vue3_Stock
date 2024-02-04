@@ -8,6 +8,6 @@ export default defineConfig({
     host:'127.0.0.1',
     port:8080
   },
-  base: '/testimg/',
+  base: '/Vite_Vue3_Stock/',
   plugins: [UnoCSS(),vue()],
 })
